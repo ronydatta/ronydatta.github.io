@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Mainly Interested in :  
+        title: Mainly Interested in   
         #link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -70,7 +70,7 @@ content:
         #quote: >
           #This one of the ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          <mark>Network security</mark> <mark>Network traffic analysis</mark> <mark>Malware analysis & attribution</mark> <mark>IoT malware detection</mark> <mark>Security and privacy</mark> <mark>Machine learning</mark> <mark>Im‑balanced classification</mark>
+          <mark>Network security</mark> <mark>Network traffic analysis</mark> <mark>Malware analysis & attribution</mark> <mark>IoT malware detection</mark> <mark>Security and privacy</mark> <mark>Machine learning</mark> <mark>Imbalanced classification</mark>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -121,7 +121,7 @@ content:
         link: https://mycom.com.my/
         # link_text: boringcompany.com
         sub_title: Computer Technician
-        caption: October 2016 - Present
+        caption: January 2016 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
