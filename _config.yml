@@ -84,19 +84,6 @@ content:
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-
-
-      - layout: left
-        title: Sita New Multimedia Sdn. Bhd.
-        link: www.sita.com.my
-        # link_text: boringcompany.com
-        sub_title: Junior System Engineer
-        caption: October 2016 - December 2016
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
             - Installing, maintaining, and troubleshooting of Linux server, deploying application such as CRM, ERP, HRMS, POS, IP‑PBX etc.
             - Server virtualization using open source tools such as Proxmox.
             - Identifying requirements to define, plan, and implement solutions for clients.
@@ -110,7 +97,24 @@ content:
             - Coordinate with vendors to resolve hardware and 3rd party software problems.
             - Backup/restore virtual machines and server configuration.
             - Maintain source code and create documentation using Gitlab.
-            - Provide training to intern.Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company
+            - Provide training to intern.
+
+
+
+      - layout: left
+        title: Sita New Multimedia Sdn. Bhd.
+        link: www.sita.com.my
+        # link_text: boringcompany.com
+        sub_title: Junior System Engineer
+        caption: October 2016 - December 2016
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            - Learning about all the network equipment and their monitoring tools.
+            - Creating VPN clients for remote users.
+            - Commissioning decommissioning on‑premise Linux servers.
+            - Learn about and contribute to the development of products (ERP, CRM, HRMS, Call‑center)
+            - Present accomplishments and internship take‑aways.
 
       - layout: left
         title: MyCom Technology
@@ -121,7 +125,16 @@ content:
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company
+            - Set up hardware, install and configure software and drivers.
+            - Maintain and repair hardware equipment (e.g. display, wan card, thermal, speaker, keyboard, touch‑pad).
+            - Spare parts distribution.
+            - Perform unit and system testing.
+            - Manage system security options such as firewall and antivirus in computers to maintain privacy and protection from attacks.
+            - Provide technical support and issue resolution to users via multiple remote assistance platforms.
+            - Troubleshoot system failures or bugs and provide solutions to restore functionality.
+            - Keep records of repairs and fixes for future reference.
+            - Offer timely technical support and teach users how to utilize computers correctly.
+            - Prepare weekly and monthly report for management.
 
 
 
