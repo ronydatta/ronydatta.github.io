@@ -33,7 +33,7 @@ linkedin_username: shovondattarony
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://ronydatta.github.io/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -70,7 +70,7 @@ content:
         quote: >
           This one of the ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Network security, Network traffic analysis, Malware analysis & attribution, IoT malware detection, Security and privacy, Machine learning, Im‑balanced classification.
+          <mark>Network security</mark>, <mark>Network traffic analysis</mark>, <mark>Malware analysis & attribution</mark>, <mark>IoT malware detection</mark>, <mark>Security and privacy</mark>, <mark>Machine learning</mark>, <mark>Im‑balanced classification</mark>.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
