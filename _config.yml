@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Mainly Interested in Network Security and Privacy  
+        title: Mainly Interested in :  
         #link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -67,8 +67,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This one of the ever created, if you don't agree you're probably wrong.
+        #quote: >
+          #This one of the ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           <mark>Network security</mark> <mark>Network traffic analysis</mark> <mark>Malware analysis & attribution</mark> <mark>IoT malware detection</mark> <mark>Security and privacy</mark> <mark>Machine learning</mark> <mark>Im‑balanced classification</mark>
 
@@ -105,7 +105,7 @@ content:
         title: Sita New Multimedia Sdn. Bhd.
         link: www.sita.com.my
         # link_text: boringcompany.com
-        sub_title: Junior System Engineer
+        sub_title: Intern
         caption: October 2016 - December 2016
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -117,10 +117,10 @@ content:
             - Present accomplishments and internship take‑aways.
 
       - layout: left
-        title: MyCom Technology
+        title: MyCom Technology (ASUS authorised service partner)
         link: https://mycom.com.my/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
+        sub_title: Computer Technician
         caption: October 2016 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -151,6 +151,17 @@ content:
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+      - layout: left
+        title: Lincoln University College
+        caption: 2017-2019
+        sub_title: Bachelor of Computer Science (Network Technology and Cybersecurity)
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of my       
 
   - title: A Little More About Me
     layout: text
