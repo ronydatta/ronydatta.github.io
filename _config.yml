@@ -70,8 +70,7 @@ content:
         quote: >
           This one of the ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          • Network security, Network traffic analysis, Malware analysis & attribution, IoT malware detection, Security and privacy, Machine learning, Im‑
-balanced classification.
+          Network security, Network traffic analysis, Malware analysis & attribution, IoT malware detection, Security and privacy, Machine learning, Im‑balanced classification.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
