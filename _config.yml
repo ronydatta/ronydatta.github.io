@@ -197,9 +197,9 @@ content:
           
           
       - layout: left
-        title: VOLUNTEER STAFF 
-        caption: Sep. 2014 ‑ Jun. 2016
-        sub_title: MEMBER & CO‑LEADER AT 2016
+        title: Bangladesh Red Crescent Society (BDRCS) 
+        caption: Mar. 2010 ‑ Dec. 2012
+        sub_title: VOLUNTEER STAFF
         #quote: >
          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -212,14 +212,15 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my above mentioned interests, some of my other interests and hobbies are:
+      - Reading novels
+      - Debating
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Exploring and testing new technology & gadgets
+      - Playing football & cricket
+      - Hanging out  with friends
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      
 
 # Footer
 footer_show_references: true
