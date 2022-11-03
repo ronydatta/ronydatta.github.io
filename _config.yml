@@ -182,16 +182,31 @@ content:
           - Introduced Github and technical forum (Stack Overflow).    
           
       - layout: left
-        title: University of Malaya
-        caption: 2022
-        sub_title: Master of Computer Science (Applied Computing)
+        title: LITS (Lincoln IT Society)
+        caption: Sep. 2014 ‑ Jun. 2016
+        sub_title: MEMBER & CO‑LEADER AT 2016
         #quote: >
          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          - Thesis Title: A Comparative Analysis On Class Imbalance In Network Traffic Classification
-          - Supervisor: Associate Prof. TS. Dr. Nor Badrul Anuar Bin Juma’at
-          - Co‑supervisor: Prof. Ts. Dr. Miss Laiha Binti Mat Kiah
-          - CGPA: 3.75/4.00    
+          - Organised seminars, workshops and meetings for skill developments.
+          - Provided ICT services to other departments.
+          - Designed banners and brochures to raise awareness.
+          - Designed certificates for participant. 
+          - Conducted survey of learning management systems’ user experience.
+          - Introduced open source operating system and PC software in different colleges. 
+          
+          
+      - layout: left
+        title: VOLUNTEER STAFF 
+        caption: Sep. 2014 ‑ Jun. 2016
+        sub_title: MEMBER & CO‑LEADER AT 2016
+        #quote: >
+         # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          - Planned and organised blood donation camp in different places.
+          - Created awareness about blood donation and its importance.
+          - Encouraged people to donate blood.
+          - Attended first aid training.           
                  
 
   - title: A Little More About Me
