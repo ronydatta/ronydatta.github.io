@@ -81,8 +81,8 @@ content:
         # link_text: boringcompany.com
         sub_title: Junior System Engineer
         caption: January 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             - Installing, maintaining, and troubleshooting of Linux server, deploying application such as CRM, ERP, HRMS, POS, IP‑PBX etc.
             - Server virtualization using open source tools such as Proxmox.
@@ -108,7 +108,7 @@ content:
         sub_title: Intern
         caption: October 2016 - December 2016
         #quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             - Learning about all the network equipment and their monitoring tools.
             - Creating VPN clients for remote users.
@@ -123,7 +123,7 @@ content:
         sub_title: Computer Technician
         caption: January 2016 - Present
         #quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             - Set up hardware, install and configure software and drivers.
             - Maintain and repair hardware equipment (e.g. display, wan card, thermal, speaker, keyboard, touch‑pad).
@@ -146,7 +146,7 @@ content:
         caption: 2022
         sub_title: Master of Computer Science
         #quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+         # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -157,7 +157,7 @@ content:
         caption: 2017-2019
         sub_title: Bachelor of Computer Science (Network Technology and Cybersecurity)
         #quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
