@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Shovon Datta Rony and I'm a system engineer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Shovon Datta Rony and I'm a system engineer. Iam a hardworking and ambitious individual with a great passion for the cybersecurity and cloud industry I have excellent communication skills, enabling me to effectively communicate with a wide range of people that also enables me highly capable of team leading Proficient in a range of modern tools and technologies including intrusion detection/prevention system, machine learning, python php I would definitely mention that I am someone who can easily adapt to different environments and learn quickly
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  
 
 content:
   - title: Research Interest # Title for the section
