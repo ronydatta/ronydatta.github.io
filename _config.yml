@@ -81,7 +81,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Junior System Engineer
         caption: January 2017 - Present
-        #quote: >
+        quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             - Installing, maintaining, and troubleshooting of Linux server, deploying application such as CRM, ERP, HRMS, POS, IP‑PBX etc.
