@@ -170,16 +170,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Malaya
-        caption: 2022
-        sub_title: Master of Computer Science (Applied Computing)
+        title: LUC (Lincoln University College) Linux Club
+        caption: Aug. 2016 ‑ Sep. 2016
+        sub_title: Trainer
         #quote: >
          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          - Thesis Title: A Comparative Analysis On Class Imbalance In Network Traffic Classification
-          - Supervisor: Associate Prof. TS. Dr. Nor Badrul Anuar Bin Juma’at
-          - Co‑supervisor: Prof. Ts. Dr. Miss Laiha Binti Mat Kiah
-          - CGPA: 3.75/4.00    
+          - Provided hands‑on Linux (desktop + server) training in a dedicated Linux laboratory.
+          - Explained filesystem and basic network configuration.
+          - Taught how to install LAMP (Linux, Apache, MySQL & PHP) stack on Ubuntu server
+          - Introduced Github and technical forum (Stack Overflow).    
           
       - layout: left
         title: University of Malaya
