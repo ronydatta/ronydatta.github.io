@@ -157,14 +157,42 @@ content:
       - layout: left
         title: Lincoln University College
         caption: 2017
-        sub_title: Bachelor of Computer Science (Network Technology and Cybersecurity)
+        sub_title: Bachelor of Computer Science (Hons.)
         #quote: >
           #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           - Major: Network Technology and Cybersecurity
           - Supervisor: Dr. Divya Midhun Chakkaravarthy
           - CGPA: 3.81/4.00
-          I spent a lot of my       
+          
+          
+  - title: Extracurricular Activity # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of Malaya
+        caption: 2022
+        sub_title: Master of Computer Science (Applied Computing)
+        #quote: >
+         # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          - Thesis Title: A Comparative Analysis On Class Imbalance In Network Traffic Classification
+          - Supervisor: Associate Prof. TS. Dr. Nor Badrul Anuar Bin Juma’at
+          - Co‑supervisor: Prof. Ts. Dr. Miss Laiha Binti Mat Kiah
+          - CGPA: 3.75/4.00    
+          
+      - layout: left
+        title: University of Malaya
+        caption: 2022
+        sub_title: Master of Computer Science (Applied Computing)
+        #quote: >
+         # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          - Thesis Title: A Comparative Analysis On Class Imbalance In Network Traffic Classification
+          - Supervisor: Associate Prof. TS. Dr. Nor Badrul Anuar Bin Juma’at
+          - Co‑supervisor: Prof. Ts. Dr. Miss Laiha Binti Mat Kiah
+          - CGPA: 3.75/4.00    
+                 
 
   - title: A Little More About Me
     layout: text
