@@ -209,7 +209,7 @@ content:
                  
 
   
-  - title: Some of the certification I have accomplished
+  - title: Some of the certifications I have accomplished
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my above mentioned interests, some of my other interests and hobbies are:
@@ -219,6 +219,10 @@ content:
       - Cyber Security, DeVry University, Udemy.
       - Data Analysis with Python, IBM, Coursera
       - Technical Support Fundamentals, Google, Coursera.
+      - CompTIA Linux+, Cybrary.
+      - IP Addressing and Subnetting, Shikandar Shaik, Udemy.
+      - Grandstream Certified Specialist- Networking Solution, Grandstream 
+      - Digium Switchvox Support Engineer - dSSE, Digium, Asterisk.
   
   
   
