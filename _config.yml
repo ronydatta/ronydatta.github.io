@@ -86,11 +86,10 @@ content:
             - Installing, maintaining, and troubleshooting of Linux server, deploying application such as CRM, ERP, HRMS, POS, IP‑PBX etc.
             - Server virtualization using open source tools such as Proxmox.
             - Identifying requirements to define, plan, and implement solutions for clients.
-            - Developing and maintaining programs and scripts aiding the operation and automation of administrative tasks using scripting languages (bashand Python).
-            - Installing and maintaining server based security systems.
+            - Developing and maintaining programs and scripts aiding the operation and automation of administrative tasks using scripting languages (bash and Python).
+            - Installing and maintaining server-based security systems.
             - Monitoring security incidents with extended detection response (XDR) using Wazuh.
             - Web Administration (CPanel, Wordpress, OpenCart)
-            - Implemented several API microservices in Node.js Koa and in the serverless AWS Lambda functions.
             - Built an enterprise monitoring system (EMS) using Icinga which monitors network and system services such as ping, dhcp, http, ssl, snmp, ftp, apache, databases, ssh, etc.
             - Deployed a centralized dashboard and monitoring environment (ELK stack, Grafana, InfluxDB) which gather system metrics as well as application data from database.
             - Coordinate with vendors to resolve hardware and 3rd party software problems.
@@ -117,15 +116,15 @@ content:
 
       - layout: left
         title: MyCom Technology (ASUS authorised service partner)
-        link: https://mycom.com.my/
+        link: www.mycom.com.my
         # link_text: boringcompany.com
         sub_title: Computer Technician
-        caption: January 2016 - Present
+        caption: May 2015 - September 2016 
         #quote: >
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             - Set up hardware, install and configure software and drivers.
-            - Maintain and repair hardware equipment (e.g. display, wan card, thermal, speaker, keyboard, touch‑pad).
+            - Maintain and repair hardware equipment (e.g. display, wan card, thermal, speaker, keyboard, touchpad).
             - Spare parts distribution.
             - Perform unit and system testing.
             - Manage system security options such as firewall and antivirus in computers to maintain privacy and protection from attacks.
@@ -202,7 +201,7 @@ content:
         #quote: >
          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          - Planned and organised blood donation camp in different places.
+          - Planned and organised blood donation camps in different places.
           - Created awareness about blood donation and its importance.
           - Encouraged people to donate blood.
           - Attended first aid training.           
@@ -229,7 +228,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my above mentioned interests, some of my other interests and hobbies are:
+      Alongside my above-mentioned interests, some of my other interests and hobbies are:
       - Reading novels
       - Debating
       - Gaming
