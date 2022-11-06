@@ -228,7 +228,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my above-mentioned interests, some of my other interests and hobbies are:
+      Alongside my interests mentioned above, some of my other interests and hobbies are:
       - Reading novels
       - Debating
       - Gaming
