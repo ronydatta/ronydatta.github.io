@@ -212,7 +212,6 @@ content:
   - title: Some of the certifications I have accomplished
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my above mentioned interests, some of my other interests and hobbies are:
       - Programming for Everybody, University of Michigan, Coursera.
       - Data Science with Python, University of Malaya.
       - Introduction to Cybersecurity, Cisco Networking Academy.
