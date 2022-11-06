@@ -69,7 +69,8 @@ content:
         #quote: >
           #This one of the ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          <mark>Network security</mark> <mark>Network traffic analysis</mark> <mark>Malware analysis & attribution</mark> <mark>IoT malware detection</mark> <mark> Intrusion detection </mark> <mark>Security and privacy</mark> <mark>Machine learning</mark> <mark>Imbalanced classification</mark>
+          <mark>Network security</mark> <mark>Network traffic analysis</mark> <mark>Malware analysis & attribution</mark> <mark> IoT malware detection </mark> <mark> Intrusion detection </mark> 
+          <mark>Security and privacy</mark> <mark>Machine learning</mark> <mark>Imbalanced classification</mark>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
