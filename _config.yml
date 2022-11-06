@@ -208,6 +208,21 @@ content:
           - Attended first aid training.           
                  
 
+  
+  - title: Some of the certification I have accomplished
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my above mentioned interests, some of my other interests and hobbies are:
+      - Programming for Everybody, University of Michigan, Coursera.
+      - Data Science with Python, University of Malaya.
+      - Introduction to Cybersecurity, Cisco Networking Academy.
+      - Cyber Security, DeVry University, Udemy.
+      - Data Analysis with Python, IBM, Coursera
+      - Technical Support Fundamentals, Google, Coursera.
+  
+  
+  
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -215,7 +230,7 @@ content:
       - Reading novels
       - Debating
       - Gaming
-      - Exploring and testing new technology & gadgets
+      - Exploring and testing out new technology & gadgets
       - Playing football & cricket
       - Hanging out  with friends
 
