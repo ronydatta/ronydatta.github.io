@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Shovon Datta Rony
-title: Junior System Engineer
+title: System Administrator
 email: ronydatta@protonmail.com
 website: ronydatta.github.io
 
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hi, my name's Shovon Datta Rony, a research enthusiast as well as a system engineer. I am a hardworking and ambitious individual with a great passion for cybersecurity and privacy. I have excellent communication skills, enabling me to effectively communicate with a wide range of people, which also allows me to be highly capable of team leading. Proficient in a range of modern tools and technologies, including intrusion detection/prevention systems, machine learning, python, php etc. I would definitely mention that I am someone who can easily adapt to different environments and can learn quickly.
+ Hi, my name's Shovon Datta Rony, a research enthusiast as well as a System Administrator. I am a hardworking and ambitious individual with a great passion for cybersecurity and privacy. I have excellent communication skills, enabling me to effectively communicate with a wide range of people, which also allows me to be highly capable of team leading. Proficient in a range of modern tools and technologies, including intrusion detection/prevention systems, machine learning, python, php etc. I would definitely mention that I am someone who can easily adapt to different environments and can learn quickly.
   
 
 content:
@@ -79,7 +79,7 @@ content:
         title: Sita New Multimedia Sdn. Bhd.
         link: www.sita.com.my
         # link_text: boringcompany.com
-        sub_title: Junior System Engineer
+        sub_title: System Administrator
         caption: January 2017 - Present
         #quote: >
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
