@@ -80,23 +80,23 @@ content:
         link: www.sita.com.my
         # link_text: boringcompany.com
         sub_title: System Administrator
-        caption: January 2017 - Present
+        caption: January 2017 - February 2023
         #quote: >
-          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          #Solving 21st century problems by digging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - Installing, maintaining, and troubleshooting of Linux server, deploying application such as CRM, ERP, HRMS, POS, IP‑PBX etc.
-            - Server virtualization using open source tools such as Proxmox.
+            - Installing, maintaining, and troubleshooting of Linux servers, deploying applications such as CRM, ERP, HRMS, POS, IP‑PBX, etc.
+            - Server virtualization using open-source tools such as Proxmox.
             - Identifying requirements to define, plan, and implement solutions for clients.
             - Developing and maintaining programs and scripts aiding the operation and automation of administrative tasks using scripting languages (bash and Python).
             - Installing and maintaining server-based security systems.
             - Monitoring security incidents with extended detection response (XDR) using Wazuh.
-            - Web Administration (CPanel, Wordpress, OpenCart)
+            - Web Administration (CPanel, WordPress, OpenCart)
             - Built an enterprise monitoring system (EMS) using Icinga which monitors network and system services such as ping, dhcp, http, ssl, snmp, ftp, apache, databases, ssh, etc.
-            - Deployed a centralized dashboard and monitoring environment (ELK stack, Grafana, InfluxDB) which gather system metrics as well as application data from database.
+            - Deployed a centralized dashboard and monitoring environment (ELK stack, Grafana, InfluxDB) which gathers system metrics as well as application data from database.
             - Coordinate with vendors to resolve hardware and 3rd party software problems.
             - Backup/restore virtual machines and server configuration.
             - Maintain source code and create documentation using Gitlab.
-            - Provide training to intern.
+            - Provide training to interns.
 
 
 
